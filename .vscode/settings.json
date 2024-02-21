@@ -1,0 +1,15 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/hila/Desktop/r3",
+            "binaryPath": "/home/hila/Desktop/r3/TCP_Receiver",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/hila/Desktop/r3",
+            "binaryPath": "/home/hila/Desktop/r3/TCP_Sender",
+            "binaryArgs": []
+        }
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
+}
