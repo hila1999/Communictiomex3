@@ -1,0 +1,167 @@
+TCP Reno Run 1
+Script started on 2024-02-26 19:30:06+02:00 [<not executed on terminal>]
+bash: line 1: ./TCP_Receiver: No such file or directory
+
+Script done on 2024-02-26 19:30:06+02:00 [COMMAND_EXIT_CODE="127"]
+
+
+TCP Reno Run 2
+Script started on 2024-02-26 19:30:10+02:00 [<not executed on terminal>]
+bash: line 1: ./TCP_Receiver: No such file or directory
+
+Script done on 2024-02-26 19:30:10+02:00 [COMMAND_EXIT_CODE="127"]
+
+
+TCP Reno Run 3
+Script started on 2024-02-26 19:30:14+02:00 [<not executed on terminal>]
+bash: line 1: ./TCP_Receiver: No such file or directory
+
+Script done on 2024-02-26 19:30:15+02:00 [COMMAND_EXIT_CODE="127"]
+
+
+TCP Reno Run 4
+Script started on 2024-02-26 19:30:19+02:00 [<not executed on terminal>]
+bash: line 1: ./TCP_Receiver: No such file or directory
+
+Script done on 2024-02-26 19:30:19+02:00 [COMMAND_EXIT_CODE="127"]
+
+
+TCP Reno Run 5
+Script started on 2024-02-26 19:30:23+02:00 [<not executed on terminal>]
+bash: line 1: ./TCP_Receiver: No such file or directory
+
+Script done on 2024-02-26 19:30:23+02:00 [COMMAND_EXIT_CODE="127"]
+
+
+TCP Cubic Run 1
+Script started on 2024-02-26 19:30:27+02:00 [<not executed on terminal>]
+bash: line 1: ./TCP_Receiver: No such file or directory
+
+Script done on 2024-02-26 19:30:27+02:00 [COMMAND_EXIT_CODE="127"]
+
+
+TCP Cubic Run 2
+Script started on 2024-02-26 19:30:31+02:00 [<not executed on terminal>]
+bash: line 1: ./TCP_Receiver: No such file or directory
+
+Script done on 2024-02-26 19:30:31+02:00 [COMMAND_EXIT_CODE="127"]
+
+
+TCP Reno Run 1
+Script started on 2024-02-26 19:39:05+02:00 [<not executed on terminal>]
+Receiver started.duration: 18.39 ms speed: 106.23 mb/s
+duration: 21.23 ms speed: 92.01 mb/s
+duration: 24.83 ms speed: 78.66 mb/s
+duration: 30.85 ms speed: 63.30 mb/s
+duration: 37.65 ms speed: 51.87 mb/s
+Average time: 26.59ms
+Average Speed: 73.46 MB/s
+
+Script done on 2024-02-26 19:39:12+02:00 [COMMAND_EXIT_CODE="0"]
+
+
+TCP Reno Run 2
+Script started on 2024-02-26 19:39:14+02:00 [<not executed on terminal>]
+Receiver started.duration: 5.04 ms speed: 387.14 mb/s
+duration: 10.94 ms speed: 178.47 mb/s
+duration: 14.90 ms speed: 131.12 mb/s
+duration: 20.93 ms speed: 93.33 mb/s
+duration: 23.89 ms speed: 81.77 mb/s
+Average time: 15.14ms
+Average Speed: 129.01 MB/s
+
+Script done on 2024-02-26 19:39:21+02:00 [COMMAND_EXIT_CODE="0"]
+
+
+TCP Reno Run 3
+Script started on 2024-02-26 19:39:23+02:00 [<not executed on terminal>]
+Receiver started.duration: 15.02 ms speed: 130.00 mb/s
+duration: 23.71 ms speed: 82.39 mb/s
+duration: 29.96 ms speed: 65.18 mb/s
+duration: 36.82 ms speed: 53.05 mb/s
+duration: 44.15 ms speed: 44.24 mb/s
+Average time: 29.93ms
+Average Speed: 65.25 MB/s
+
+Script done on 2024-02-26 19:39:30+02:00 [COMMAND_EXIT_CODE="0"]
+
+
+TCP Reno Run 4
+Script started on 2024-02-26 19:39:32+02:00 [<not executed on terminal>]
+Receiver started.duration: 5.24 ms speed: 373.09 mb/s
+duration: 12.12 ms speed: 161.18 mb/s
+duration: 16.12 ms speed: 121.15 mb/s
+duration: 22.79 ms speed: 85.69 mb/s
+duration: 25.45 ms speed: 76.75 mb/s
+Average time: 16.34ms
+Average Speed: 119.51 MB/s
+
+Script done on 2024-02-26 19:39:39+02:00 [COMMAND_EXIT_CODE="0"]
+
+
+TCP Reno Run 5
+Script started on 2024-02-26 19:39:41+02:00 [<not executed on terminal>]
+Receiver started.duration: 5.44 ms speed: 358.83 mb/s
+duration: 9.07 ms speed: 215.27 mb/s
+duration: 11.98 ms speed: 163.06 mb/s
+duration: 14.88 ms speed: 131.28 mb/s
+duration: 17.64 ms speed: 110.74 mb/s
+Average time: 11.80ms
+Average Speed: 165.49 MB/s
+
+Script done on 2024-02-26 19:39:48+02:00 [COMMAND_EXIT_CODE="0"]
+
+
+TCP Cubic Run 1
+Script started on 2024-02-26 19:39:50+02:00 [<not executed on terminal>]
+Receiver started.duration: 6.51 ms speed: 299.97 mb/s
+duration: 10.91 ms speed: 179.01 mb/s
+duration: 19.07 ms speed: 102.43 mb/s
+duration: 22.50 ms speed: 86.79 mb/s
+duration: 25.90 ms speed: 75.42 mb/s
+Average time: 16.98ms
+Average Speed: 115.04 MB/s
+
+Script done on 2024-02-26 19:39:57+02:00 [COMMAND_EXIT_CODE="0"]
+
+
+TCP Cubic Run 2
+Script started on 2024-02-26 19:39:59+02:00 [<not executed on terminal>]
+Receiver started.duration: 13.06 ms speed: 149.52 mb/s
+duration: 17.19 ms speed: 113.63 mb/s
+duration: 19.88 ms speed: 98.23 mb/s
+duration: 22.84 ms speed: 85.51 mb/s
+duration: 25.77 ms speed: 75.78 mb/s
+Average time: 19.75ms
+Average Speed: 98.89 MB/s
+
+Script done on 2024-02-26 19:40:06+02:00 [COMMAND_EXIT_CODE="0"]
+
+
+TCP Cubic Run 3
+Script started on 2024-02-26 19:40:08+02:00 [<not executed on terminal>]
+Receiver started.duration: 4.42 ms speed: 441.59 mb/s
+duration: 10.85 ms speed: 179.96 mb/s
+duration: 15.26 ms speed: 127.97 mb/s
+duration: 19.07 ms speed: 102.41 mb/s
+duration: 23.56 ms speed: 82.91 mb/s
+Average time: 14.63ms
+Average Speed: 133.47 MB/s
+
+Script done on 2024-02-26 19:40:15+02:00 [COMMAND_EXIT_CODE="0"]
+
+
+TCP Cubic Run 4
+Script started on 2024-02-26 19:40:17+02:00 [<not executed on terminal>]
+Receiver started.duration: 4.22 ms speed: 463.05 mb/s
+duration: 7.69 ms speed: 253.92 mb/s
+duration: 12.87 ms speed: 151.78 mb/s
+duration: 15.74 ms speed: 124.12 mb/s
+duration: 19.99 ms speed: 97.71 mb/s
+Average time: 12.10ms
+Average Speed: 161.41 MB/s
+
+Script done on 2024-02-26 19:40:24+02:00 [COMMAND_EXIT_CODE="0"]
+
+
+TCP Cubic Run 5
